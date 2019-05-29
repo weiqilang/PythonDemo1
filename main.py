@@ -5,4 +5,5 @@ import machine
 
 print('A')
 print('B')
-print('C')
+print('*******adding from PythonA********')
+print('***********adding now**************')
